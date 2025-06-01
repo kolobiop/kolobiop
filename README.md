@@ -12,7 +12,7 @@
 - 📝 I studied at Tecsup
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://github.com/kolobiop" alt="patricio's profile views" /> 
-	<a href="https://github.com/kolobiop?tab=followers"><img src="https://img.shields.io/github/followers/kolobiop?label=Followers&style=social" alt="GitHub Badge"></a>
+	<a href="https://github.com/kolobiop?tab=followers"><img src="https://img.shields.io/github/followers/kolobiop?label=Followers&style=social"></a>
 <br><br>
 
 ## 💻 Technologies 
